@@ -4,7 +4,7 @@ Software Engineering student focused on Backend Development and AI Engineering.
 
 I enjoy building software, exploring new technologies, and integrating AI into real-world applications. Currently developing web projects, improving my backend skills, and researching modern AI tools, agents, and LLM-based systems.
 
-## 🚀 Interests
+## Interests
 
 * Backend Development
 * AI Engineering
@@ -14,7 +14,7 @@ I enjoy building software, exploring new technologies, and integrating AI into r
 * Automation
 * Software Architecture
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -45,20 +45,20 @@ I enjoy building software, exploring new technologies, and integrating AI into r
 * Prompt Engineering
 * LLM Workflows
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Go Backend Development
 * System Design
 * AI Engineering
 
-## 🎯 Goals
+## Goals
 
 * Build useful products with AI
 * Gain commercial software development experience
 * Contribute to open-source projects
 * Become a strong Software Engineer with AI expertise
 
-## 📫 Contact
+## Contact
 
 * Telegram: @awangarden
 * Email: awangarden@yandex.ru
