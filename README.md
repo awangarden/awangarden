@@ -62,6 +62,7 @@ I enjoy building software, exploring new technologies, and integrating AI into r
 
 * Telegram: @awangarden
 * Email: awangarden@yandex.ru
+* VK: https://vk.com/peacedeath7
 
 ---
 
