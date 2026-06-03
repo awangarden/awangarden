@@ -4,16 +4,6 @@ Software Engineering student focused on Backend Development and AI Engineering.
 
 I enjoy building software, exploring new technologies, and integrating AI into real-world applications. Currently developing web projects, improving my backend skills, and researching modern AI tools, agents, and LLM-based systems.
 
-## Interests
-
-* Backend Development
-* AI Engineering
-* AI Agents
-* LLM Integration
-* Prompt Engineering
-* Automation
-* Software Architecture
-
 ## Tech Stack
 
 **Languages**
@@ -53,10 +43,8 @@ I enjoy building software, exploring new technologies, and integrating AI into r
 
 ## Goals
 
-* Build useful products with AI
+* Build useful products with AI and making money
 * Gain commercial software development experience
-* Contribute to open-source projects
-* Become a strong Software Engineer with AI expertise
 
 ## Contact
 
